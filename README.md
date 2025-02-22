@@ -1,7 +1,7 @@
 # CaseChanger
 This Python project converts the contents of a text file from lowercase to uppercase.
 
-#How It Works
+# How It Works
 
 ->The program reads the content from an input text file.
 
@@ -10,7 +10,7 @@ This Python project converts the contents of a text file from lowercase to upper
 ->The converted content is written to an output text file.
 
 
-#How to Use
+# How to Use
 
 ->Make sure you have Python installed on your machine.
 
@@ -29,6 +29,6 @@ This Python project converts the contents of a text file from lowercase to upper
 ->Check the output.txt file for the converted uppercase content
 
 
-#License
+# License
 
 This project is open source and available under the MIT License.
